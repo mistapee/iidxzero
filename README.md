@@ -11,6 +11,9 @@ i want to make a micro version with a spring-centering toggle switch instead of 
 
 i am right now making silicon molds for the turtables to be cast out of resin - i really like the results so far. the rotary encoder is the same used on all other projects which especially in this country is incredibly cheap and a solid unit. this whole controller could travel in your pocket and when you pull it out you just drop the turn table hockey puck on the shaft of the encoder - keeping it fixed risks damage.
 
+<img width="760" height="506" alt="20260425_015308" src="https://github.com/user-attachments/assets/600c2005-d2be-416f-8628-a2d1b0ccd0e9" />
+
+
 the hole around the encoder is not supposed to line up with the turntable, i usually go from pcbs arriving to getting them out much quicker but i've been busy - AND (NOTE THIS if you use these gerbers) i was doing a big clean up and picked some footprint libraries for Kicad thinking that they were pretty much what I had previously. they're not, so the SMD soldering is less forgiving that i usually go for
 
 no firmware or anything yet, i use my usual RGB test before putting the sandiwche together.
