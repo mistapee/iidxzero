@@ -9,7 +9,6 @@ The case has the same dimensions as the PCB so it will be difficult to insert th
 
 The only thing missing is a turntable, a 60mm diameter rotary encoder knob. You can find these in 3D print file archives, but I can not find them to purchase which I would rather do. I've got several different prototypes made and will update when I have achieved some clarity.
 
-<img width="1600" height="1200" alt="534" src="https://github.com/user-attachments/assets/0aa02dbd-613f-4cd3-8cf7-6adbe135ed7b" />
 <img width="1600" height="1200" alt="s4444-l1600" src="https://github.com/user-attachments/assets/63d0ea37-58ea-4d4a-9302-38909060013c" />
 
 !10th May 2026 - they're made and being sent out - firmware used is GP2040-CE which is the aim every time really, the target price all together should be around 20 quid (that's GBP). I'll be testing the config backup in the next few days before uploading it, but the webconfig is reachable with the available keys as they are, I then set my buttons to be b1-b4 L1, R1, L2 S1 and S2, although that's mostly arbitrary it's the order GP2040-CE does it. i will also break down how the GPIO are used for setting up the key LEDs n the Add-Ons section, the 2 RGB LEDS and the rotary encoder settings - i set the encoder to act as Dpad up and down but there are other options, you should also set a reset time (in ms)  so it doesn't hold in whatever direction last pushed.
