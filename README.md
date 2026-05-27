@@ -1,6 +1,9 @@
 # iidxzero
 
-17th May 2026 - Guide for setting up with GP2040-CE firmware uploaded, plus 3D print files for a gasket and a case - the gasket is in place of washers between the PCBs, it is specifically 3mm and any washers I got just weren't. By going between the 2 PCBs we add a fair bit of strength to the top plate. It's a bit different here as we are not using hotswap sockets, so we don't have screw holes and the plate and PCB are fixed with the keys are soldered in.
+You can buy cheap from OpenRhythmUK on Ebay (https://www.ebay.com/sch/i.html?_ssn=openrhythmuk) as usual. As much as the international shipping fee can be (realistically you still couldn't find cheaper) I am more than reasonable and a lot make contact about creating a bundle for them where not only do I discount everything, usually adding 2 or 3 more controllers doesn't change the shipping fee. I've given away a lot of bonus items for my own entertainment
+
+
+17th May 2026 - Guide  for setting up with GP2040-CE firmware uploaded, plus 3D print files for a gasket and a case - the gasket is in place of washers between the PCBs, it is specifically 3mm and any washers I got just weren't. By going between the 2 PCBs we add a fair bit of strength to the top plate. It's a bit different here as we are not using hotswap sockets, so we don't have screw holes and the plate and PCB are fixed with the keys are soldered in.
 
 <img width="1600" height="1200" alt="534" src="https://github.com/user-attachments/assets/eac0bea8-cbb1-48cc-99c8-090e220c81e8" />
 
